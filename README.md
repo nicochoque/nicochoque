@@ -17,14 +17,14 @@ Analista enfocado en la optimización de procesos operativos mediante el uso est
 
 ### 📂 **Proyectos Destacados (Data Analytics)**
 
-#### 📈 [Análisis de Eficiencia Operativa & Logística](LINK-A-TU-REPOSITORIO)
+#### 📈 [Análisis de Eficiencia Operativa & Logística](https://github.com/nicochoque/Inventario-Optimizado-XYZ-)
 *Proyecto integrador donde analicé flujos de datos para identificar cuellos de botella en la cadena de suministro.*
 - **Herramientas:** SQL, Python, Power BI.
 - **Key Insight:** Optimización proyectada del 15% en tiempos de respuesta mediante la automatización de reportes de KPIs.
 
 #### 📊 [Dashboard de Gestión de Inventarios](https://github.com/nicochoque/Inventario-Optimizado-XYZ-)
 *Visualización dinámica para el control de stock y trazabilidad de productos.*
-- **Herramientas:** Power BI, Excel.
+- **Herramientas:** Power BI.
 - **Impacto:** Mejora en la visibilidad de activos críticos en tiempo real.
 
 ---
